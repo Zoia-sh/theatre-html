@@ -1,2 +1,2 @@
-# theatre-html
+# html-thetre
 pet project
